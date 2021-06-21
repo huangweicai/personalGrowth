@@ -1,3 +1,2 @@
-# My Awesome Book
+这是我的第一本电子书，涵盖个人成长，职场，商业。基本是我关注的领域。
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
