@@ -4,7 +4,7 @@
 * [个人篇](chapter1.md)
   * [高效能人士的7个习惯](chapter1/gao-xiao-neng-ren-shi-de-7-ge-xi-guan.md)
   * [逆商，痛苦是成长的推动力](chapter1/ni-shang-ff0c-tong-ku-shi-cheng-chang-de-tui-dong-li.md)
-  * 早起，让你每天多一半的时间
+  * [早起，让你每天多一半的时间](chapter1/zao-qi-ff0c-rang-ni-mei-tian-duo-yi-ban-de-shi-jian.md)
   * [暗时间，时间从哪里来](chapter1/an-shi-jian-ff0c-sui-pian-shi-jian-de-li-yong-ti-gao-xiao-lv.md)
   * 提升底层操作系统，提升系统上的APP
   * 时间成本概念
@@ -19,6 +19,7 @@
   * [赚钱才是成年人最大的觉悟](chapter1/zhuan-qian-cai-shi-cheng-nian-ren-zui-da-de-jue-wu.md)
   * [未来是长出来的，要有布局思维](chapter1/wei-lai-shi-chang-chu-lai-de-ff0c-yao-you-bu-ju-si-wei.md)
   * [多靠自动模式，而被刻意模式](chapter1/duo-kao-zi-dong-mo-shi-ff0c-er-bei-ke-yi-mo-shi.md)
+  * [年轻人一定要戒消费主义](chapter1/nian-qing-ren-yi-ding-yao-jie-xiao-fei-zhu-yi.md)
 * [职场篇](zhi-chang-pian.md)
   * [职业规划](zhi-chang-pian/zhi-ye-gui-hua.md)
   * 高效专注工作一个小胜过一整天三心两意
