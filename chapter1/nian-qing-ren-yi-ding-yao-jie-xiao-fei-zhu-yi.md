@@ -2,5 +2,5 @@
 
 要知道当你困难的时候，能帮你的寥寥无几，一定要不要随便削弱自己的力量。
 
-money is power。
+money is power
 
