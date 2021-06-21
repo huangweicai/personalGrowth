@@ -22,13 +22,13 @@
   * [年轻人一定要戒消费主义](chapter1/nian-qing-ren-yi-ding-yao-jie-xiao-fei-zhu-yi.md)
 * [职场篇](zhi-chang-pian.md)
   * [职业规划](zhi-chang-pian/zhi-ye-gui-hua.md)
-  * 高效专注工作一个小胜过一整天三心两意
   * [愿意吃亏，聪明的笨人老板最喜欢](zhi-chang-pian/cong-ming-de-ben-ren-zui-rang-ling-dao-xi-huan.md)
   * 优先级：严格控制每周做事的任务量，重要的先做
   * [高效开会，到底是大家畅所欲言，还是把握重点高效产出](zhi-chang-pian/gao-xiao-kai-hui-ff0c-dao-di-shi-da-jia-chang-suo-yu-yan-ff0c-huan-shi-ba-wo-zhong-dian-gao-xiao-chan-chu.md)
   * [管理者关注整体产出，执行者关注单点产出](zhi-chang-pian/guan-li-zhe-guan-zhu-zheng-ti-chan-chu-ff0c-zhi-xing-zhe-guan-zhu-dan-dian-chan-chu.md)
   * [乐观讨论，悲观执行](zhi-chang-pian/le-guan-tao-lun-ff0c-bei-guan-zhi-xing.md)
   * [比起控制期望，敢于要资源实现目标](zhi-chang-pian/bi-qi-kong-zhi-qi-wang-ff0c-gan-yu-yao-zi-yuan-shi-xian-mu-biao.md)
+  * [高效专注工作一个小胜过一整天三心两意](zhi-chang-pian/gao-xiao-zhuan-zhu-gong-zuo-yi-ge-xiao-sheng-guo-yi-zheng-tian-san-xin-liang-yi.md)
 * [商业篇](shang-ye-pian.md)
   * 流量为王
   * [商业世界的方向](shang-ye-pian/shang-ye-shi-jie-de-fang-xiang.md)
