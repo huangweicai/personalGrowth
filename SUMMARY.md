@@ -17,6 +17,7 @@
   * 心安才是幸福的定义
   * [我的写作心法](chapter1/wo-de-xie-zuo-xin-fa.md)
   * [赚钱才是成年人最大的觉悟](chapter1/zhuan-qian-cai-shi-cheng-nian-ren-zui-da-de-jue-wu.md)
+  * [未来是长出来的，要有布局思维](chapter1/wei-lai-shi-chang-chu-lai-de-ff0c-yao-you-bu-ju-si-wei.md)
 * [职场篇](zhi-chang-pian.md)
   * [职业规划](zhi-chang-pian/zhi-ye-gui-hua.md)
   * 高效专注工作一个小胜过一整天三心两意
