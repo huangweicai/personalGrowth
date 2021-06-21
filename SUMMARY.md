@@ -11,6 +11,7 @@
   * 快速阅读的方法
   * 输出是重新连接知识孤岛的过程
   * 断舍离，减少干扰和欲望是幸福的前提
+  * [目标管理，把时间更多留给重要且不紧急的事上](chapter1/mu-biao-guan-li-ff0c-ba-shi-jian-geng-duo-liu-gei-zhong-yao-qie-bu-jin-ji-de-shi-shang.md)
 * [职场篇](zhi-chang-pian.md)
   * 聪明的笨人最让领导喜欢
 * [商业篇](shang-ye-pian.md)
