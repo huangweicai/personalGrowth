@@ -12,8 +12,9 @@
   * 输出是重新连接知识孤岛的过程
   * [断舍离，减少干扰和欲望是幸福的前提](chapter1/duan-she-li-ff0c-jian-shao-gan-rao-he-yu-wang-shi-xing-fu-de-qian-ti.md)
   * [目标管理，把时间更多留给重要且不紧急的事上](chapter1/mu-biao-guan-li-ff0c-ba-shi-jian-geng-duo-liu-gei-zhong-yao-qie-bu-jin-ji-de-shi-shang.md)
-  * 禅定能力就是你的专注力
+  * [禅定能力就是你的专注力](chapter1/shan-ding-neng-li-jiu-shi-ni-de-zhuan-zhu-li.md)
   * [最贵的资产是你的注意力](chapter1/zui-gui-de-zi-chan-shi-ni-de-zhu-yi-li.md)
+  * 心安才是幸福的定义
 * [职场篇](zhi-chang-pian.md)
   * [职业规划](zhi-chang-pian/zhi-ye-gui-hua.md)
   * 高效专注工作一个小胜过一整天三心两意
@@ -21,6 +22,8 @@
   * 优先级：严格控制每周做事的任务量，重要的先做
   * 高效开会，到底是大家畅所欲言，还是把握重点高效产出
   * [管理者关注整体产出，执行者关注单点产出](zhi-chang-pian/guan-li-zhe-guan-zhu-zheng-ti-chan-chu-ff0c-zhi-xing-zhe-guan-zhu-dan-dian-chan-chu.md)
+  * [乐观讨论，悲观执行](zhi-chang-pian/le-guan-tao-lun-ff0c-bei-guan-zhi-xing.md)
+  * [比起控制期望，敢于要资源实现目标](zhi-chang-pian/bi-qi-kong-zhi-qi-wang-ff0c-gan-yu-yao-zi-yuan-shi-xian-mu-biao.md)
 * [商业篇](shang-ye-pian.md)
   * 流量为王
   * [商业世界的方向](shang-ye-pian/shang-ye-shi-jie-de-fang-xiang.md)
