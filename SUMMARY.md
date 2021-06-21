@@ -13,7 +13,8 @@
   * [断舍离，减少干扰和欲望是幸福的前提](chapter1/duan-she-li-ff0c-jian-shao-gan-rao-he-yu-wang-shi-xing-fu-de-qian-ti.md)
   * [目标管理，把时间更多留给重要且不紧急的事上](chapter1/mu-biao-guan-li-ff0c-ba-shi-jian-geng-duo-liu-gei-zhong-yao-qie-bu-jin-ji-de-shi-shang.md)
 * [职场篇](zhi-chang-pian.md)
-  * 聪明的笨人最让领导喜欢
+  * [聪明的笨人最让领导喜欢](zhi-chang-pian/cong-ming-de-ben-ren-zui-rang-ling-dao-xi-huan.md)
+  * [职业规划](zhi-chang-pian/zhi-ye-gui-hua.md)
 * [商业篇](shang-ye-pian.md)
   * 流量为王
   * [商业世界的方向](shang-ye-pian/shang-ye-shi-jie-de-fang-xiang.md)
