@@ -15,6 +15,8 @@
   * [禅定能力就是你的专注力](chapter1/shan-ding-neng-li-jiu-shi-ni-de-zhuan-zhu-li.md)
   * [最贵的资产是你的注意力](chapter1/zui-gui-de-zi-chan-shi-ni-de-zhu-yi-li.md)
   * 心安才是幸福的定义
+  * [我的写作心法](chapter1/wo-de-xie-zuo-xin-fa.md)
+  * [赚钱才是成年人最大的觉悟](chapter1/zhuan-qian-cai-shi-cheng-nian-ren-zui-da-de-jue-wu.md)
 * [职场篇](zhi-chang-pian.md)
   * [职业规划](zhi-chang-pian/zhi-ye-gui-hua.md)
   * 高效专注工作一个小胜过一整天三心两意
