@@ -4,8 +4,8 @@
 * [个人篇](chapter1.md)
   * [高效能人士的7个习惯](chapter1/gao-xiao-neng-ren-shi-de-7-ge-xi-guan.md)
   * 逆商，痛苦是成长的推动力
-  * 暗时间，碎片时间的利用提高效率
   * 早起，让你每天多一半的时间
+  * [暗时间，时间从哪里来](chapter1/an-shi-jian-ff0c-sui-pian-shi-jian-de-li-yong-ti-gao-xiao-lv.md)
   * 提升底层操作系统，提升系统上的APP
   * 时间成本概念
   * 快速阅读的方法
