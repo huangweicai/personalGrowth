@@ -13,6 +13,7 @@
   * [断舍离，减少干扰和欲望是幸福的前提](chapter1/duan-she-li-ff0c-jian-shao-gan-rao-he-yu-wang-shi-xing-fu-de-qian-ti.md)
   * [目标管理，把时间更多留给重要且不紧急的事上](chapter1/mu-biao-guan-li-ff0c-ba-shi-jian-geng-duo-liu-gei-zhong-yao-qie-bu-jin-ji-de-shi-shang.md)
   * 禅定能力就是你的专注力
+  * [最贵的资产是你的注意力](chapter1/zui-gui-de-zi-chan-shi-ni-de-zhu-yi-li.md)
 * [职场篇](zhi-chang-pian.md)
   * [职业规划](zhi-chang-pian/zhi-ye-gui-hua.md)
   * 高效专注工作一个小胜过一整天三心两意
