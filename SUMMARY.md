@@ -7,9 +7,9 @@
   * [早起，让你每天多一半的时间](chapter1/zao-qi-ff0c-rang-ni-mei-tian-duo-yi-ban-de-shi-jian.md)
   * [暗时间，时间从哪里来](chapter1/an-shi-jian-ff0c-sui-pian-shi-jian-de-li-yong-ti-gao-xiao-lv.md)
   * 提升底层操作系统，提升系统上的APP
-  * 时间成本概念
+  * [时间成本概念](chapter1/shi-jian-cheng-ben-gai-nian.md)
   * 快速阅读的方法
-  * 输出是重新连接知识孤岛的过程
+  * [输出是重新连接知识孤岛的过程](chapter1/shu-chu-shi-zhong-xin-lian-jie-zhi-shi-gu-dao-de-guo-cheng.md)
   * [断舍离，减少干扰和欲望是幸福的前提](chapter1/duan-she-li-ff0c-jian-shao-gan-rao-he-yu-wang-shi-xing-fu-de-qian-ti.md)
   * [目标管理，把时间更多留给重要且不紧急的事上](chapter1/mu-biao-guan-li-ff0c-ba-shi-jian-geng-duo-liu-gei-zhong-yao-qie-bu-jin-ji-de-shi-shang.md)
   * [禅定能力就是你的专注力](chapter1/shan-ding-neng-li-jiu-shi-ni-de-zhuan-zhu-li.md)
@@ -21,7 +21,8 @@
   * [多靠自动模式，而被刻意模式](chapter1/duo-kao-zi-dong-mo-shi-ff0c-er-bei-ke-yi-mo-shi.md)
   * [年轻人一定要戒消费主义](chapter1/nian-qing-ren-yi-ding-yao-jie-xiao-fei-zhu-yi.md)
   * 要有产品意识，可视化你的积累
-  * 消费还是投资
+  * [消费还是投资](chapter1/xiao-fei-huan-shi-tou-zi.md)
+  * 机会成本
 * [职场篇](zhi-chang-pian.md)
   * [职业规划](zhi-chang-pian/zhi-ye-gui-hua.md)
   * [愿意吃亏，聪明的笨人老板最喜欢](zhi-chang-pian/cong-ming-de-ben-ren-zui-rang-ling-dao-xi-huan.md)
@@ -36,8 +37,8 @@
   * [商业世界的方向](shang-ye-pian/shang-ye-shi-jie-de-fang-xiang.md)
   * [普通人创业的方向，轻资产&gt;高周转&gt;高收益](chuang-ye-pian/qing-chuang-ye.md)
 * [两性篇](liang-xing-pian.md)
-  * 女孩要避免自己成为吸渣体质
+  * [女孩要避免自己成为吸渣体质](liang-xing-pian/nv-hai-yao-bi-mian-zi-ji-cheng-wei-xi-zha-ti-zhi.md)
   * [男生追求女生要摆正心态，不要爱而不得而生恨](liang-xing-pian/nan-sheng-zhui-qiu-nv-sheng-yao-bai-zheng-xin-tai-ff0c-bu-yao-ai-er-bu-de-er-sheng-hen.md)
-  * 女孩子怎么获得男生的青睐和关注
-  * 结婚教练的视角可以帮助女孩找到好老公
+  * [女孩子怎么获得男生的青睐和关注](liang-xing-pian/nv-hai-zi-zen-yao-huo-de-nan-sheng-de-qing-lai-he-guan-zhu.md)
+  * [结婚教练的视角可以帮助女孩找到好老公](liang-xing-pian/jie-hun-jiao-lian-de-shi-jiao-ke-yi-bang-zhu-nv-hai-zhao-dao-hao-lao-gong.md)
 
