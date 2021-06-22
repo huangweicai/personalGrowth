@@ -6,7 +6,7 @@
   * [逆商，痛苦是成长的推动力](chapter1/ni-shang-ff0c-tong-ku-shi-cheng-chang-de-tui-dong-li.md)
   * [早起，让你每天多一半的时间](chapter1/zao-qi-ff0c-rang-ni-mei-tian-duo-yi-ban-de-shi-jian.md)
   * [暗时间，时间从哪里来](chapter1/an-shi-jian-ff0c-sui-pian-shi-jian-de-li-yong-ti-gao-xiao-lv.md)
-  * 提升底层操作系统，提升系统上的APP
+  * [操作系统级别的提升](chapter1/ti-sheng-di-ceng-cao-zuo-xi-tong-ff0c-ti-sheng-xi-tong-shang-de-app.md)
   * [时间成本概念](chapter1/shi-jian-cheng-ben-gai-nian.md)
   * 快速阅读的方法
   * [输出是重新连接知识孤岛的过程](chapter1/shu-chu-shi-zhong-xin-lian-jie-zhi-shi-gu-dao-de-guo-cheng.md)
