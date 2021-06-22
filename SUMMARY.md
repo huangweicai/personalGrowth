@@ -8,7 +8,7 @@
   * [暗时间，时间从哪里来](chapter1/an-shi-jian-ff0c-sui-pian-shi-jian-de-li-yong-ti-gao-xiao-lv.md)
   * [操作系统级别的提升](chapter1/ti-sheng-di-ceng-cao-zuo-xi-tong-ff0c-ti-sheng-xi-tong-shang-de-app.md)
   * [时间成本概念](chapter1/shi-jian-cheng-ben-gai-nian.md)
-  * 快速阅读的方法
+  * [快速阅读的方法](chapter1/kuai-su-yue-du-de-fang-fa.md)
   * [输出是重新连接知识孤岛的过程](chapter1/shu-chu-shi-zhong-xin-lian-jie-zhi-shi-gu-dao-de-guo-cheng.md)
   * [断舍离，减少干扰和欲望是幸福的前提](chapter1/duan-she-li-ff0c-jian-shao-gan-rao-he-yu-wang-shi-xing-fu-de-qian-ti.md)
   * [目标管理，把时间更多留给重要且不紧急的事上](chapter1/mu-biao-guan-li-ff0c-ba-shi-jian-geng-duo-liu-gei-zhong-yao-qie-bu-jin-ji-de-shi-shang.md)
