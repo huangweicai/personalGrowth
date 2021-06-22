@@ -21,6 +21,7 @@
   * [多靠自动模式，而被刻意模式](chapter1/duo-kao-zi-dong-mo-shi-ff0c-er-bei-ke-yi-mo-shi.md)
   * [年轻人一定要戒消费主义](chapter1/nian-qing-ren-yi-ding-yao-jie-xiao-fei-zhu-yi.md)
   * 要有产品意识，可视化你的积累
+  * 消费还是投资
 * [职场篇](zhi-chang-pian.md)
   * [职业规划](zhi-chang-pian/zhi-ye-gui-hua.md)
   * [愿意吃亏，聪明的笨人老板最喜欢](zhi-chang-pian/cong-ming-de-ben-ren-zui-rang-ling-dao-xi-huan.md)
