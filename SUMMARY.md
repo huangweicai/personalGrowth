@@ -33,6 +33,7 @@
   * [乐观讨论，悲观执行](zhi-chang-pian/le-guan-tao-lun-ff0c-bei-guan-zhi-xing.md)
   * [比起控制期望，敢于要资源实现目标](zhi-chang-pian/bi-qi-kong-zhi-qi-wang-ff0c-gan-yu-yao-zi-yuan-shi-xian-mu-biao.md)
   * [高效专注工作一个小胜过一整天三心两意](zhi-chang-pian/gao-xiao-zhuan-zhu-gong-zuo-yi-ge-xiao-sheng-guo-yi-zheng-tian-san-xin-liang-yi.md)
+  * 不时表忠心让leader安心
 * [商业篇](shang-ye-pian.md)
   * 流量为王
   * [商业世界的方向](shang-ye-pian/shang-ye-shi-jie-de-fang-xiang.md)
