@@ -23,6 +23,7 @@
   * 要有产品意识，可视化你的积累
   * [消费还是投资](chapter1/xiao-fei-huan-shi-tou-zi.md)
   * 机会成本
+  * [可视化你的积累成果](chapter1/ke-shi-hua-ni-de-ji-lei-cheng-guo.md)
 * [职场篇](zhi-chang-pian.md)
   * [职业规划](zhi-chang-pian/zhi-ye-gui-hua.md)
   * [愿意吃亏，聪明的笨人老板最喜欢](zhi-chang-pian/cong-ming-de-ben-ren-zui-rang-ling-dao-xi-huan.md)
